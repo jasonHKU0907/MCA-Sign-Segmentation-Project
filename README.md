@@ -6,20 +6,17 @@ In order to geometrically align all CT brains, we launched a data-preprocessing 
 
 ### Example
 
-<img src="examples/Raw_Brain.png" width="500">
-
 #### Raw Brain
-![examples/Raw_Brain.png](examples/Raw_Brain.png)
+<img src="examples/Raw_Brain.png" width="300">
 
 #### Skull-stripped Brain
-![examples/Extracted_Brain.png](examples/Extracted_Brain.png)
+<img src="examples/Extracted_Brain.png" width="300">
 
-#### Brain template 
-![examples/template.png](examples/template.png)
+#### Brain template
+<img src="examples/template.png" width="300">
 
 #### Registered_Brain Brain
-![examples/Registered_Brain.png](examples/Registered_Brain.png)
-
+<img src="examples/Registered_Brain.png" width="300">
 
 
 
