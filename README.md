@@ -7,7 +7,7 @@ In order to geometrically align all CT brains, we launched a data-preprocessing 
 ### Example
 
 #### Raw Brain
-![examples/Raw_Brain.png =250x250](examples/Raw_Brain.png =250x250)
+![examples/Raw_Brain.png](examples/Raw_Brain.png){:height="50%" width="50%"}
 
 #### Skull-stripped Brain
 ![examples/Extracted_Brain.png](examples/Extracted_Brain.png)
