@@ -6,7 +6,7 @@ In order to geometrically align all CT brains, we launched a data-preprocessing 
 
 ### Example
 
-<img src="examples/Raw_Brain.png" width="50">
+<img src="examples/Raw_Brain.png" width="500">
 
 #### Raw Brain
 ![examples/Raw_Brain.png](examples/Raw_Brain.png)
