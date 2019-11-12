@@ -6,6 +6,8 @@ In order to geometrically align all CT brains, we launched a data-preprocessing 
 
 ### Example
 
+<img src="examples/Raw_Brain.png" width="50">
+
 #### Raw Brain
 ![examples/Raw_Brain.png](examples/Raw_Brain.png)
 
@@ -17,6 +19,8 @@ In order to geometrically align all CT brains, we launched a data-preprocessing 
 
 #### Registered_Brain Brain
 ![examples/Registered_Brain.png](examples/Registered_Brain.png)
+
+
 
 
 Models and weights will be shared later upon the publication of our research.
