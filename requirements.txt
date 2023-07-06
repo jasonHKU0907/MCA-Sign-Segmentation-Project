@@ -2,7 +2,7 @@ nibabel==2.3.1
 NiftyPy==0.4.0
 nilearn==0.5.2
 nipype==1.1.6
-scipy==1.1.0
+scipy==1.10.0
 glob2==0.6
 tqdm==4.26.0
 opencv==3.4.2
